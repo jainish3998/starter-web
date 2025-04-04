@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work adding some text for rebase purpose
+This repository is for showing how Git and GitHub work adding some text for rebase purpose. changes from the REBASE branch aswell
 
 ## Purpose
 
