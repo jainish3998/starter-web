@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Jainish Suthar
     <name> -- <role> -- <twitter>
 
 # THANKS
