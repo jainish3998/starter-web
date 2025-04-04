@@ -12,4 +12,4 @@ This is a sample README File
 
 ## Copyright 
 
-This is Copyright
+This is Copyright from new Branch
