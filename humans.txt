@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+	this is the text for rebase example 
     <name>
 
 # TECHNOLOGY COLOPHON
